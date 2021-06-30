@@ -77,3 +77,6 @@ sudo snap install postman
 
 sudo snap install spotify
 
+# Install virtualenv 
+
+sudo apt install python3-virtualenv
